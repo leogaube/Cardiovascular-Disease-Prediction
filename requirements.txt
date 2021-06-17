@@ -1,4 +1,5 @@
 pandas
+sklearn
 jupyter
 numpy
 seaborn
